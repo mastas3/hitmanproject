@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "react-fontawesome": "^1.6.1",
     "react-player": "^0.18.0"
   },
   "devDependencies": {
